@@ -6,4 +6,5 @@ OpenGL course app to understand computer graphics.
 -GLFW 3.4 (32 bit)    
 -GLEW 2.1.0     
 -GLM       
--Assimp 
+-Assimp          
+-[stb](https://github.com/nothings/stb)
