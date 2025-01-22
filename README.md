@@ -7,4 +7,4 @@ OpenGL course app to understand computer graphics.
 -GLEW 2.1.0     
 -GLM       
 -Assimp          
--[stb](https://github.com/nothings/stb)
+-[stb_image.h](https://github.com/nothings/stb)
